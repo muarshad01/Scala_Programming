@@ -100,6 +100,27 @@ class Counter(val count: Int = 0) {
 ***
 
 ## 11. Object-Oriented Basics (exercises)
+
+### Defining classes 
+```scala
+class Person(name: String, age: Int)
+```
+
+### Instantiating 
+```scala
+val bob = new Person("Bob", 25)
+```
+
+### Parameters vs fields class 
+```scala
+Person(val name: String, age: Int)
+```
+
+### Defining methods 
+```scala
+def greet(): String = {...}
+```
+
 ***
 ## 12. Syntactic Sugar: Method Notations
 ***
