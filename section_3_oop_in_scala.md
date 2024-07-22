@@ -247,9 +247,9 @@ object Objects extends App {
 ***
 
 #### Scala objects
-are in their only class
-are the only instance
-singleton pattern in one line!
+* are in their own class
+* are the only instance
+* singleton pattern in one line!
 
 #### Scala companions
 * can access each other's private members
