@@ -401,7 +401,12 @@ object List {
     def single[A](elementL: A): List[A] = ???
 }
 ```
-
+#### Variance
+```scala
+trait List[+A] - yes (covariant)
+trait List[A] - no (invariant) - dafault
+trait List[-A] - hello no! (contravariant)
+```
 ***
 
 ## 19. Anonymous Classes
