@@ -389,24 +389,34 @@ object Generics extends App {
 
 }
 ***
+
 #### Same code on many Types
 ```scala
 trait List[T] {
     def add(elem: T)
 }
 ```
+
 ####
 ```scala
 object List {
     def single[A](elementL: A): List[A] = ???
 }
 ```
+
 #### Variance
 ```scala
 trait List[+A] - yes (covariant)
 trait List[A] - no (invariant) - dafault
 trait List[-A] - hello no! (contravariant)
 ```
+#### Bounded Types
+```scala
+class Car
+class Supercar extends Car
+class Garage[T <: Car](car: T)
+```
+
 ***
 
 ## 19. Anonymous Classes
