@@ -253,7 +253,7 @@ object Objects extends App {
 
 #### Scala companions
 * can access each other's private members
-* Scala is more OO than Java
+* Scala is more OO than Java!
   
 #### Scala applications
 ```scala
@@ -264,12 +264,19 @@ object MyApp extends App
 ***
 
 ## 15. Inheritance
+
 ***
+
 ## 16. Inheritance, Continued: Abstract Classes and Traits
+
 ***
+
 ## 17. Inheritance Exercises: Implementing Our Own Collection
+
 ***
+
 ## 18. Generics
+
 ***
 ## 19. Anonymous Classes
 ***
