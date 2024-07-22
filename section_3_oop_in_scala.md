@@ -243,6 +243,24 @@ object Objects extends App {
   // def main(args: Array[String]): Unit
 }
 ```
+
+***
+
+#### Scala objects
+are in their only class
+are the only instance
+singleton pattern in one line!
+
+#### Scala companions
+* can access each other's private members
+* Scala is more OO than Java
+  
+#### Scala applications
+```scala
+def main(args: Array[String]): Unit
+object MyApp extends App
+```
+
 ***
 
 ## 15. Inheritance
