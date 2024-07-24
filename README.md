@@ -12,3 +12,8 @@
 * [Section 06 - You Rock](https://github.com/muarshad01/Scala_Programming/blob/main/section_6_you_rock.md)
 
 *** 
+
+## Useful Links
+* [Scala API Current](https://www.scala-lang.org/api/current/)
+
+*** 
