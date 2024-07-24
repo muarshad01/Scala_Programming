@@ -16,5 +16,6 @@
 ## Useful Links
 * [Scala API Current](https://www.scala-lang.org/api/current/)
 * [Advanced Scala and Functional Programming](https://www.udemy.com/course/advanced-scala/?couponCode=KEEPLEARNING)
+* [Geeksforgeeks - Scala](https://www.geeksforgeeks.org/scala-programming-language/)
 
 *** 
